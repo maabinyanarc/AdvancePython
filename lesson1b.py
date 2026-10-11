@@ -39,6 +39,10 @@ print(mylist)
 mylist.insert(0,"Finland")
 print(mylist)
 
+# Below is a list inside a list and print your name from it
+list2 = [["James", "Tony","Bernard", "Jeremiah"], ["Joyce", "Mary", "Oscar", "Martha"], ["Brian","Christina", "Edward","Joseph", "Linet"]]
+print("The name is: ",list2[2][1])
+
 # create two list with three items each and join them together to form one big list
 list1 = ["tomato", "pepper", "onion"]
 list2 = ["hen", "dog", "cat"]
