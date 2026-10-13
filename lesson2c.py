@@ -10,7 +10,7 @@ else:
     print("can donate blood")
 
 # how do you pick user input from the terminal.
-# we use the input function to pick user input from the terminal
+# we use the input function to pick user input from the terminal. Below we demonstrate the aspect of type casting.
 
 age = int(input("kindly enter your age: "))
 
